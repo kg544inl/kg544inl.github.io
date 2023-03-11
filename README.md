@@ -1,2 +1,3 @@
 # kg544inl.github.io
-profile
+
+Kacper Goralczyk profile
